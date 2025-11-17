@@ -18,7 +18,7 @@
 .. image:: https://img.shields.io/github/license/inveniosoftware/invenio-app-rdm.svg
         :target: https://github.com/inveniosoftware/invenio-app-rdm/blob/master/LICENSE
 
-InvenioRDM Research Data Management
+InvenioRDM Research Data Management - Via Dromologics
 
 Further documentation is available on
 https://inveniordm.docs.cern.ch
